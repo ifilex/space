@@ -1,0 +1,6 @@
+{
+  "name": "Space Invaders: Neon Assault 90s",
+  "description": "Juego retro arcade 2D con aceleración física, iluminación neón, audio dinámico por sintetizador, power-ups épicos, cooperativo local, tablas globales, controles táctiles transparentes y analizador de conducta cognitiva con adaptación dinámica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
